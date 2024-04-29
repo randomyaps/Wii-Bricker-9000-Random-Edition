@@ -1,0 +1,1 @@
+<Project name="Random Bricker"><MagicFolder excludeFiles="*.pnproj;*.pnps;*.bak;*.tmp" excludeFolders="CVS;.svn;.hg;.git" filter="*" name="source" path="source\"><File path="main.c"></File></MagicFolder><File path="Makefile"></File></Project>
